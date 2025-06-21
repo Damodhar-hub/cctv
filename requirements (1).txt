@@ -9,6 +9,9 @@ scikit-image
 shapely
 pyclipper
 python-bidi
+scipy
+munch
+pyyaml
 easyocr
 torch
 torchvision
