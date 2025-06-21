@@ -6,3 +6,6 @@ pandas
 openpyxl
 pillow
 easyocr
+torch
+torchvision
+torchaudio
