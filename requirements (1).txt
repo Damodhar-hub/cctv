@@ -5,6 +5,10 @@ numpy
 pandas
 openpyxl
 pillow
+scikit-image
+shapely
+pyclipper
+python-bidi
 easyocr
 torch
 torchvision
